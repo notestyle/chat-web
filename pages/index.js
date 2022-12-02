@@ -15,7 +15,7 @@ export default function Home() {
     <>
       <div className="bg-gray-900 w-full h-screen pt-10">
         <h2 className="text-gray-100 absolute top-0 left-0 w-full text-xl text-center bg-gradient-to-r from-pink-500 via-indigo-400 to-lime-500">
-          12б групп чат
+          12б super групп чат
         </h2>
         <div className="w-full p-12 gap-4 flex flex-col h-full overflow-y-auto">
           {messages.map((row, i) => (
